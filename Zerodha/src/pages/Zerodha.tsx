@@ -5,7 +5,7 @@ const Zerodha: React.FC = () => {
     <div className="fixed border-b-2 bg-white w-full border-gray-100 " >
       <div className="flex justify-between items-center h-5 px-[15%]  py-7.5">
         <div className="w-sm">
-          <img src="src/assets/logo.svg" alt="Logo" className="w-30 h-auto" />
+          <img src="https://github.com/Prasadkadam03/Zerodha_frontend_clone/blob/main/Zerodha/src/assets/logo.svg" alt="Logo" className="w-30 h-auto" />
         </div>
         <div className="flex justify-center text-sm text-gray-500 font-medium space-x-10">
           <h6 className="cursor-pointer hover:text-blue-400">Signup</h6>
@@ -22,7 +22,7 @@ const Zerodha: React.FC = () => {
 
     <div className="flex flex-col items-center font-sans pt-15 text-gray-800 h-screen">
       <div className="h-auto w-220 p-15">
-        <img src="src/assets/landing.png" alt="landing" />
+        <img src="https://github.com/Prasadkadam03/Zerodha_frontend_clone/blob/main/Zerodha/src/assets/landing.png" alt="landing" />
       </div>
       <h1 className="text-5xl text-bold ">Invest in everything</h1>
       <p className="text-xl py-5 text-center ">Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds, and more.</p>
@@ -56,13 +56,12 @@ const Zerodha: React.FC = () => {
         </div>
       </div>
       <div className=" items-center py-15 ">
-        <img className="" src="src/assets/ecosystem.png" alt="ecosystem" />
+        <img className="" src="https://github.com/Prasadkadam03/Zerodha_frontend_clone/blob/main/Zerodha/src/assets/ecosystem.png" alt="ecosystem" />
         <div className="flex justify-center">
           <span className="text-blue-500 hover:text-black">Explore our products </span> <span  className="ps-5 text-blue-500 hover:text-black">Try Kite demo </span>
         </div>
       </div>
     </div>
-    <a href="https://wa.me/+918055907280" className="text-blue-600 visited:text-purple-600 ..."> Link to WP </a>
   </div>
   );
 };
